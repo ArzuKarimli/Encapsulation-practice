@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\bin\Debug\net6.0\Services-Encapsulation-practice.exe
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\bin\Debug\net6.0\Services-Encapsulation-practice.deps.json
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\bin\Debug\net6.0\Services-Encapsulation-practice.runtimeconfig.json
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\bin\Debug\net6.0\Services-Encapsulation-practice.dll
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\bin\Debug\net6.0\Services-Encapsulation-practice.pdb
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\Services-Encapsulation-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\Services-Encapsulation-practice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\Services-Encapsulation-practice.AssemblyInfo.cs
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\Services-Encapsulation-practice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\Services-Encapsulation-practice.dll
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\refint\Services-Encapsulation-practice.dll
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\Services-Encapsulation-practice.pdb
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\Services-Encapsulation-practice.genruntimeconfig.cache
+C:\Users\User\Desktop\Code-Academy-Tasks\Class-code\Services-Encapsulation-practice\Services-Encapsulation-practice\obj\Debug\net6.0\ref\Services-Encapsulation-practice.dll
